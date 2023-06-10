@@ -19,6 +19,6 @@ pragma solidity 0.8.20;
         return _valorVenda * bonus;
     }
 
-  //0x8AA80A6363321a37cAF421b50FBE53a2c3Dd8094
+  //0xbd02d648e06922fbfb192f6385ad67b9c1dc05ed
 
  }

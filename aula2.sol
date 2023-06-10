@@ -4,7 +4,11 @@ pragma solidity 0.8.20;
  contract Venda{
     string public vendedor;
     uint256 public bonus;
-
+    
+constructor(string memory _vendedor, uint256 _bonus) {
+        vendedor = _vendedor;
+        bonus = _bonus;
+    }
 
     function setVendedor(string memory _vendedor) public {
         vendedor = _vendedor;

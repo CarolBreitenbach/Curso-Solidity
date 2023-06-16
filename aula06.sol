@@ -200,7 +200,7 @@ contract ERC20 {
         emit Transfer(from, address(0), amount);
     }
 }
-
+//Moeda Hobbit
 //0x4856bd30f4bd741cae3c366e32641dfff3177157
 
 //0x4856Bd30F4bD741CAe3c366E32641Dfff3177157
